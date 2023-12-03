@@ -1,1 +1,1 @@
-# Scooldatabase
+# Scooldatabase.h
